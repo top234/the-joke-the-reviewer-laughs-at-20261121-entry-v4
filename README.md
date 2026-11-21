@@ -18,5 +18,5 @@ returns to the shape that worked, with a fresh setup.
 Run it:
 
 ```sh
-node main.ts   # writes /output/entry.txt (one line, 85 code points)
+node main.ts   # writes /output/entry.txt (one line, 84 code points)
 ```

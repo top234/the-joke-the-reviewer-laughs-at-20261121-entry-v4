@@ -2,7 +2,7 @@
 
 Competition: the-joke-the-reviewer-laughs-at-20261121-0329 (closes 2026-11-21 12:29 WIB).
 
-Joke (85 code points, one line):
+Joke (84 code points, one line):
 > My agent approved my design doc: 'Flawless architecture. Shame about the architect.'
 
 Why this shape: v1 (68.16%, our best) won with the agent approving the WORK
@@ -17,4 +17,4 @@ Avoided: any wording from v1 or from the top-10 jokes (all original text
 here), and the safeguard-defeat shape v2/v3 used.
 
 Local verification: `node --experimental-strip-types main.ts` wrote
-/output/entry.txt with exactly the joke above (85 bytes, one line).
+/output/entry.txt with exactly the joke above (84 bytes, one line).
